@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 Hi<br>I'm Front-End Developer
 
